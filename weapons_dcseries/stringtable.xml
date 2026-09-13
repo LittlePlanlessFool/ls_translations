@@ -69,7 +69,7 @@
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc15x_magazine_displayName">
             <English>DC-15X Energy Cell</English>
-            <French>Cellule énergétique DC-15X</French>
+            <French>Cellule énergétique de DC-15X</French>
             <Polish>Ogniwo Elektryczne DC-15X</Polish>
             <German>DC-15X Energiezelle</German>
         </Key>
@@ -135,25 +135,25 @@
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_sniper_displayName">
             <English>DC-17M Sniper Attachment</English>
-            <French>Accessoire de sniper DC-17M</French>
+            <French>Accessoire de tireur d'élite DC-17M</French>
             <Polish>Moduł Snajperski DC-17M</Polish>
             <German>DC-17M Scharfschützengewehr-Modul</German>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_optic_sniper_descriptionShort">
             <English>Holographic sniper scope&lt;br/&gt;Maginification: ???x-???x</English>
-            <French>Viseur de sniper holographique&lt;br/&gt;Grossissement : ???x-???x</French>
+            <French>Viseur de tireur d'élite holographique&lt;br/&gt;Grossissement : ???x-???x</French>
             <Polish>Holograficzny Celownik Optyczny&lt;br/&gt;Przybliżenie: ???x-???x</Polish>
             <German>Holografisches Scharfschützenzielfernrohr&lt;br/&gt;Vergrößerung: ???x-???x</German>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_optic_sniper_displayName">
             <English>DC-17M Sniper Scope</English>
-            <French>Viseur de sniper de DC-17M</French>
+            <French>Viseur de tireur d'élite de DC-17M</French>
             <Polish>Celownik Optyczny DC-17M</Polish>
             <German>DC-17M Scharfschützenzielfernrohr</German>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_displayName">
             <English>DC-17M (Sniper)</English>
-            <French>DC-17M (sniper)</French>
+            <French>DC-17M (tireur d'élite)</French>
             <Polish>DC-17M (Karabin Wyborowy)</Polish>
             <German>DC-17M (Scharfschützengewehr)</German>
         </Key>
@@ -165,7 +165,7 @@
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_magazine_displayName">
             <English>DC-17M Sniper Energy Cell</English>
-            <French>Cellule énergétique de sniper DC-17M</French>
+            <French>Cellule énergétique de tireur d'élite DC-17M</French>
             <Polish>Ogniwo Elektryczne Karabinu Wyborowego DC-17M</Polish>
             <German>DC-17M Scharfschützengewehr-Energiezelle</German>
         </Key>
@@ -207,7 +207,7 @@
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_highPower_magazine_displayName">
             <English>DC-17S High Power Energy Cell</English>
-            <French>Cellule énergétique haute puissance du DC-17S</French>
+            <French>Cellule énergétique haute puissance de DC-17S</French>
             <Polish>Wysokoenergetyczne Ogniwo Elektryczne DC-17S</Polish>
             <German>DC-17S Hochleistungsenergiezelle</German>
         </Key>
@@ -231,7 +231,7 @@
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_magazine_descriptionShort">
             <English>Scatter-plasma&lt;br/&gt;Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: DP-23</English>
-            <French>Plasma dispersé&lt;br/&gt;Calibre : 12 Gauge&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : DP-23</French>
+            <French>Plasma dispersé&lt;br/&gt;Calibre : 12&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : DP-23</French>
             <Polish>Plazma rozpryszkowa&lt;br/&gt;Kaliber: 12&lt;br/&gt;Strzały: 10&lt;br/&gt;Używane w: DP-23</Polish>
             <German>Streuplasma&lt;br/&gt;Kaliber: Kaliber 12&lt;br/&gt;Patronen: 10&lt;br/&gt;Verwendet in: DP-23</German>
         </Key>
@@ -243,7 +243,7 @@
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_slug_magazine_descriptionShort">
             <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DP-23</English>
-            <French>Calibre : 12 Gauge&lt;br/&gt;Charges : 5&lt;br/&gt;Utilisé dans : DP-23</French>
+            <French>Calibre : 12&lt;br/&gt;Charges : 5&lt;br/&gt;Utilisé dans : DP-23</French>
             <Polish>Kaliber: 12&lt;br/&gt;Strzały: 5&lt;br/&gt;Używane w: DP-23</Polish>
             <German>Kaliber: Kaliber 12&lt;br/&gt;Patronen: 5&lt;br/&gt;Verwendet in: DP-23</German>
         </Key>
