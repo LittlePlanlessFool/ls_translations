@@ -120,7 +120,6 @@
             <English>Type: High Explosive Anti-Tank Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
             <German>Typ: Hochexplosiv-Panzerabwehrgranate&lt;br/&gt;Kaliber: 40 mm&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet in: 3GL</German>
             <French>Type : Munition explosive antichar&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
-            <French>Type : Munition à fragmentation&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_displayName">
             <English>40 mm IM334K HEAT Grenade Round</English>
@@ -135,6 +134,7 @@
         <Key ID="STR_ls_weapons_40mm_IM92F_HEF_descriptionShort">
             <English>Type: Fragmentation Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
             <German>Typ: Splittergranate&lt;br/&gt;Kaliber: 40 mm&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet in: 3GL</German>
+            <French>Type : Munition à fragmentation&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM92F_HEF_displayName">
             <English>40 mm IM92F HEF Grenade Round</English>
